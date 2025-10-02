@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Joseph Brink
+# 👋 Hello, I'm Joseph Brink (josephbrink93@outlook.com)
 
 **Software Engineer** specializing in **AI Solutions**, **Automation**, and **Data Analytics**
 
