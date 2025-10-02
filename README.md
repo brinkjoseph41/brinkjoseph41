@@ -2,7 +2,7 @@
 
 **Software Engineer** specializing in **AI Solutions**, **Automation**, and **Data Analytics**
 
-[![Email](https://img.shields.io/badge/Email-brinkjoseph41@gmail.com-red?style=flat-square&logo=gmail)](mailto:brinkjoseph41@gmail.com)
+[![Email](https://img.shields.io/badge/Email-josephbrink93@outlook.com-red?style=flat-square&logo=gmail)](mailto:josephbrink93@outlook.com)
 [![Work Email](https://img.shields.io/badge/Work-joseph@keepaisafe.org-blue?style=flat-square&logo=microsoft-outlook)](mailto:joseph@keepaisafe.org)
 ---
 
@@ -83,7 +83,7 @@ I'm always interested in discussing:
 - 💼 Technology solutions for business growth
 
 **Feel free to reach out:**
-- 📧 Personal: [brinkjoseph41@gmail.com](mailto:brinkjoseph41@gmail.com)
+- 📧 Personal: [josephbrink93@outlook.com](mailto:josephbrink93@outlook.com)
 - 💼 Work: [joseph@keepaisafe.org](mailto:joseph@keepaisafe.org)
 
 ---
