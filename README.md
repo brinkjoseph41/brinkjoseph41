@@ -2,8 +2,8 @@
 
 **Software Engineer** specializing in **AI Solutions**, **Automation**, and **Data Analytics**
 
-[![Email](https://img.shields.io/badge/Email-1a.decpro1122@gmail.com-red?style=flat-square&logo=gmail)](mailto:brinkjoseph41@gmail.com)
-[![Work Email](https://img.shields.io/badge/Work-christian@clovedds.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:joseph@keepaisafe.com)
+[![Email](https://img.shields.io/badge/Email-brinkjoseph41@gmail.com-red?style=flat-square&logo=gmail)](mailto:brinkjoseph41@gmail.com)
+[![Work Email](https://img.shields.io/badge/Work-joseph@keepaisafe.org-blue?style=flat-square&logo=microsoft-outlook)](mailto:joseph@keepaisafe.org)
 ---
 
 ## 🚀 About Me
